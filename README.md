@@ -33,5 +33,4 @@ Repository containing technical implementations of radio wave propagation models
 - **Simulation**: RF propagation modeling
 - **Hardware**: RF measurement equipment, custom antenna construction
 
-## 📁 Repository Structure
 
